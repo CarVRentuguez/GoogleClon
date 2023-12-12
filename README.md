@@ -9,8 +9,8 @@ Dentro del desarrollo del proyecto, incluiremos notas importantes para tí que m
 # INDICE
 
 1. [intro](url)
-2. Demo
-3. Lo que construiremos
+2. [Demo] ()
+3. [Lo que construiremos] ()
 4. Objetivos de aprendizaje
 5. Requisitos para desarrollar el proyecto
 
