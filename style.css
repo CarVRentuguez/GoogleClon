@@ -22,8 +22,8 @@ header .options a{
 
     text-decoration: none;
     background-color: white; 
-    justify-content: end;
-
+    justify-content: space-between;
+    margin-right: 25px;
 
 }
 
@@ -61,7 +61,7 @@ main {
 } 
 
 
-#buscador {
+#caja-buscador {
     display: flex;
     justify-content: center;
     border: 1px solid #dfe1e5;
@@ -73,7 +73,7 @@ main {
     
 }
 
-#buscador input {
+#caja-buscador input {
     width: 400px;
     outline: none;
     border: none;
@@ -93,14 +93,12 @@ button{
     
     
  }
-
 footer{
     display: flex;
     flex-direction: column;
     height: 90px;
-
-background-color: rgb(245, 242, 242);
-text-decoration: none;
+    background-color: rgb(245, 242, 242);
+    text-decoration: none;
 
 
 }
@@ -134,10 +132,18 @@ footer ul li div a{
 
 #opciones{
     display: flex;
- 
+    justify-content: space-between;
 
     
 }
+
+footer ul li a{
+
+    margin: 10px;
+    color: #70757a;
+}
+
+
 
  
 
